@@ -51,11 +51,11 @@
         "print(T_c)"
       ],
       "metadata": {
-        "id": "MmjxSnrLp0mk",
-        "outputId": "c85da277-3f89-462f-83ca-017a3e855dea",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "MmjxSnrLp0mk",
+        "outputId": "c85da277-3f89-462f-83ca-017a3e855dea"
       },
       "execution_count": 15,
       "outputs": [
@@ -130,11 +130,11 @@
         "tags": [
           "otter_answer_cell"
         ],
-        "id": "xSgZZfCbpbPe",
-        "outputId": "625f81c0-ff0c-4f37-aefb-c4e9188e369c",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "xSgZZfCbpbPe",
+        "outputId": "625f81c0-ff0c-4f37-aefb-c4e9188e369c"
       },
       "outputs": [
         {
